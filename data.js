@@ -1,33 +1,33 @@
 const guestCodes = {
-"L-f98z-9h67": "Lerang"
-"K-be6a-0984": "Koketso"
-"A-a62d-7c41": "Andile"
-"L-d1a7-4fb3": "Lame"
-"T-8a70-ec1d": "Tirelo"
-"T-7342-b01b": "Tefo"
-"R-481e-688b": "Refilwe"
-"E-2dca-42a7": "Ewetse"
-"N-2097-8c5f": "Nonofo"
-"M-86bd-ea09": "Michelle"
-"R-441e-d6c0": "Rona"
-"A-cc28-b90f": "Atsile"
-"A-f190-3c77": "Atla"
-"L-b29a-b13e": "Lefhika"
-"P-b15c-df31": "Palesa"
-"P-621e-34ac": "Paris"
-"L-5039-bdfa": "Lungile"
-"O-f49a-8153": "Okaile"
-"U-33af-92be": "Uyapo"
-"S-18ae-a0c4": "Sesha"
-"T-db53-5494": "Tlhongbotho"
-"T-91fb-a263": "Thabang"
-"N-731f-49c2": "Nako"
-"T-ea25-39bb": "Thembi"
-"M-5e9c-7a02": "Mphathi"
-"M-38b7-f10e": "Michael"
-"G-Ra59-7Tx2": "Gorata"
-"C-23ec-41ec": "Chawada"
-"R-11b8-4335": "Reneilwe"
-"S-d24c-4689": "Setso"
-"A-6c67-4d8b": "Angela" 
+  "L-f98z-9h67": "Lerang",
+  "K-be6a-0984": "Koketso",
+  "A-a62d-7c41": "Andile",
+  "L-d1a7-4fb3": "Lame",
+  "T-8a70-ec1d": "Tirelo",
+  "T-7342-b01b": "Tefo",
+  "R-481e-688b": "Refilwe",
+  "E-2dca-42a7": "Ewetse",
+  "N-2097-8c5f": "Nonofo",
+  "M-86bd-ea09": "Michelle",
+  "R-441e-d6c0": "Rona",
+  "A-cc28-b90f": "Atsile",
+  "A-f190-3c77": "Atla",
+  "L-b29a-b13e": "Lefhika",
+  "P-b15c-df31": "Palesa",
+  "P-621e-34ac": "Paris",
+  "L-5039-bdfa": "Lungile",
+  "O-f49a-8153": "Okaile",
+  "U-33af-92be": "Uyapo",
+  "S-18ae-a0c4": "Sesha",
+  "T-db53-5494": "Tlhongbotho",
+  "T-91fb-a263": "Thabang",
+  "N-731f-49c2": "Nako",
+  "T-ea25-39bb": "Thembi",
+  "M-5e9c-7a02": "Mphathi",
+  "M-38b7-f10e": "Michael",
+  "G-Ra59-7Tx2": "Gorata",
+  "C-23ec-41ec": "Chawada",
+  "R-11b8-4335": "Reneilwe",
+  "S-d24c-4689": "Setso",
+  "A-6c67-4d8b": "Angela"
 };
