@@ -81,14 +81,18 @@ a {
 }
 
 a:hover {
-  text-decoration: none;
+  color: white;
+  text-shadow: 0 0 4px #ff4d4d;
 }
 
 .hidden {
   display: none;
 }
 
-/* Extra tweak for very small screens */
+#partyInfo {
+  transition: all 0.3s ease-in-out;
+}
+
 @media (max-width: 360px) {
   h1 {
     font-size: 20px;
@@ -98,3 +102,4 @@ a:hover {
     font-size: 14px;
   }
 }
+
