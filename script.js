@@ -1,11 +1,11 @@
 function checkCode() {
   const code = document.getElementById("codeInput").value.trim();
-  const name = guestCodes[code];
+  const guestName = guestCodes[code];
   const errorElem = document.getElementById("error");
   const partyInfo = document.getElementById("partyInfo");
 
-  if (name) {
-    document.getElementById("guestName").textContent = name;
+  if (guestName) {
+    document.getElementById("guestName").textContent = guestName;
     errorElem.textContent = "";
     partyInfo.classList.remove("hidden");
   } else {
