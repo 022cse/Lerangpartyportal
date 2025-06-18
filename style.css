@@ -1,0 +1,50 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #111;
+  color: #eee;
+  text-align: center;
+  padding: 30px;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  border: 2px solid red;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #1a1a1a;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  width: 70%;
+  border: 1px solid #555;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 10px;
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.flyer {
+  width: 100%;
+  margin: 15px 0;
+  border: 1px solid #ccc;
+}
+
+.hidden {
+  display: none;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}

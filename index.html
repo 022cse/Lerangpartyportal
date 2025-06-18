@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Lerang’s Birthday – Guest Portal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Lerang’s Birthday Session</h1>
+    <p>Enter your personal code to access the party details.</p>
+    <input type="text" id="codeInput" placeholder="Enter your code">
+    <button onclick="checkCode()">Unlock Access</button>
+    <p id="error" class="error"></p>
+    <div id="partyInfo" class="hidden">
+      <h2>Welcome, <span id="guestName"></span>!</h2>
+      <img src="flyer.jpg" alt="Flyer" class="flyer">
+      <h3>Dress Code</h3>
+      <p>Black and Red </p>
+      <h3>Rules</h3>
+      <ul>
+        <li>No invite, no entry</li>
+        <li>BYOB or food if you'll get hungry</li>
+        <li>Respect the house, take care of yourself and be clean</li>
+        <li>Consent is mandatory</li>
+        <li>No photos/videos during games</li>
+        <li>Make sure to show code at the gate for entry</li>
+      </ul>
+      <h3>Directions</h3>
+      <p>[Insert your written directions here]</p>
+      <a href="[GOOGLE_MAPS_LINK]" target="_blank">Open in Google Maps</a>
+      <h3>Need Help?</h3>
+      <p>Call: <strong>[PHONE NUMBER]</strong></p>
+    </div>
+  </div>
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
